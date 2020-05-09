@@ -1,0 +1,15 @@
+.skill span{
+	font-size: 3em;
+	text-decoration: underline;
+}
+.skill li{
+	list-style: none;
+	font-size:2em;
+}
+.skill p{
+	font-size: 20px;
+}
+.skill{
+	justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,9 @@
+img{width: 25em;height: 20em;margin: 1em;transition: all 1s;padding: 2em;}
+.gallery{
+
+	display: flex;
+	flex-wrap: wrap;
+}
+img:hover{
+	transform: scale(1.5);
+}
